@@ -1,0 +1,11 @@
+{
+    "name": "pure icon",
+    "icons": [{
+        "name": "OpenAI.png",
+        "url": "https://raw.githubusercontent.com/qinrong167/desktop-tutorial/main/pure-icon/openai.png"
+    }, {
+        "name": "discord.png",
+        "url": "https://raw.githubusercontent.com/qinrong167/desktop-tutorial/main/pure-icon/discord.png"
+    }],
+    "description": "ziyong"
+}
